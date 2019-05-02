@@ -23,7 +23,7 @@ Running the following instructions will unlock this awesome feature and allow th
 ## Software/Installation Steps
 You need a PC for the initial setup (to load the mapping file to Skycontroller 2 via Disco's Wi-Fi connection). These instructions should work on the latest OS versions of Windows, macOS and GNU/Linux.
 
-- [Download .zip archive](https://uavpal.com/dwl/campan-1.1.zip) of the latest campan mod
+- [Download .zip archive](https://uavpal.com/download-latest-disco-campan) of the latest campan mod
 - Unzip contents (the extraction process automatically creates a new folder "disco-campan-master" or "disco-campan-x.y", where by x.y is the release version number)
 - Turn on your Disco.
 - Turn on Skycontroller 2 and wait until it's connected to the Disco via Wi-Fi (green LED).
