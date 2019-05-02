@@ -1,6 +1,6 @@
 #!/bin/sh
 echo "=== Installing UAVPAL campan mod on Disco ==="
-chmod +x /data/ftp/internal_000/disco/campan-*/adb
+chmod +x /data/ftp/internal_000/disco-campan-*/adb
 until [ "$ip_sc2" != "" ]; do
 	ip_sc2=`netstat -nu |grep 9988 | head -1 | awk '{ print $5 }' | cut -d ':' -f 1`
 	echo "Trying to detect Skycontroller 2 (ensure Skycontroller 2 is turned on and its power LED is green)"
