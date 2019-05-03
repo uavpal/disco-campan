@@ -2,7 +2,8 @@
 # Parrot Disco campan mod
 
 ## Introduction
-The Parrot Disco allows the pilot to tilt the camera view ("look up/down") via Skycontroller 2. However, **there is also a built-in pan function ("look left/right")**. Unfortunately, it's not available to the user for easy mapping in FreeFlight Pro. The video below shows the feature in action.
+The Parrot Disco allows the pilot to tilt the camera view ("look up/down") via Skycontroller 2. However, **there is also a built-in pan function ("look left/right")**. Unfortunately, it's not available to the user for easy mapping in FreeFlight Pro. This mod allows the pilot to make full use of the camera panning feature besides the existing tilting function.\
+The video below shows the feature in action.
 
 [![Disco camera pan in action](https://uavpal.com/img/campan_video_400.png)](https://www.youtube.com/watch?v=CHgPvLMQGvA&t=120)
 
@@ -11,8 +12,7 @@ The Parrot Disco allows the pilot to tilt the camera view ("look up/down") via S
 
 ![Skycontroller 2 buttons](https://uavpal.com/img/sc2buttons_small2.png)
 
-- The default tilt function via the **Left Slider** will not be available anymore after applying this mod. 
-- Camera can be centered by doing double-click with double-fingers on the FreeFlight Pro screen.
+- The camera can be centered by doing a **double-click with two fingers** on the FreeFlight Pro screen.
 - When moving the camera around, try **not** to release the **Left Trigger L1** before releasing the **Left Joystick J1**.
    - Failure to do so can produce a continuous camera movement event flow and the camera centering will not work properly.
    - Proper operation can be restored by moving the camera again using the correct button sequence as described above.
@@ -46,6 +46,7 @@ Also check out our amazing [4G/LTE softmod](https://uavpal.com/disco) if you are
 ## Note
 - Kudos to aragon and alexiter @ [rcgroups.com](https://www.rcgroups.com/forums/showthread.php?2728773-Official-Parrot-Disco-%2A%2A%2AOwner-s-Thread%2A%2A%2A)
 - Existing custom button mappings for your Disco will be lost by applying this mod. However, you can re-apply them manually afterwards in FreeFlight Pro.
+- The default tilt function via the **Left Slider** will not be available anymore after applying this mod. 
 - The campan mod is independent of the [4G/LTE softmod](https://uavpal.com/disco), both can be installed at the same time.
 - To uninstall, click the controller icon &rarr; BUTTONS MAPPING &rarr; RESET in FreeFlight Pro.
 
