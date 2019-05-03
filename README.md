@@ -6,19 +6,21 @@ The Parrot Disco allows the pilot to tilt the camera view ("look up/down") via S
 
 [![Disco camera pan in action](https://uavpal.com/img/campan_video_400.png)](https://www.youtube.com/watch?v=CHgPvLMQGvA&t=120)
 
-Running the following instructions will unlock this awesome feature and allow the pilot to freely move the camera around by using the **Left Trigger L1** in combination with the **Left Joystick J1** (see picture below for reference).
+## How does it work
+- After installing this mod, you can freely move the camera around by using the **Left Trigger L1** in combination with the **Left Joystick J1** (see picture below for reference).
 
 ![Skycontroller 2 buttons](https://uavpal.com/img/sc2buttons_small2.png)
 
-## Before you start...
-... please note
-- existing custom button mappings for your Disco will be lost by applying this mod. However, you can re-apply them manually afterwards in FreeFlight Pro.
-- the campan mod has no impact on the [4G/LTE softmod](https://uavpal.com/disco) and vice-versa.
-- it can be reverted easily in FreeFlight Pro by clicking the controller icon &rarr; BUTTONS MAPPING &rarr; RESET
-- it has been tested successfully on Skycontroller 2 (silver joysticks) with firmware 1.0.7 and 1.0.9
-- it has been tested successfully on Skycontroller 2P (black joysticks) with firmware 1.0.3 and 1.0.5
-- the default tilt function via the **Left Slider** will not be available anymore after applying this mod. Tilt and pan function are only available by using the **Left Trigger L1** in combination with the **Left Joystick J1**.
-- kudos to aragon and alexiter @ [rcgroups.com](https://www.rcgroups.com/forums/showthread.php?2728773-Official-Parrot-Disco-%2A%2A%2AOwner-s-Thread%2A%2A%2A)
+- The default tilt function via the **Left Slider** will not be available anymore after applying this mod. 
+- Camera can be centered by doing double-click with double-fingers on the FreeFlight Pro screen.
+- When moving the camera around, try **not** to release the **Left Trigger L1** before releasing the **Left Joystick J1**.
+   - Failure to do so can produce a continuous camera movement event flow and the camera centering will not work properly.
+   - Proper operation can be restored by moving the camera again using the correct button sequence as described above.
+
+## Requirements
+- [Parrot Disco](https://www.parrot.com/us/drones/parrot-disco) / [Parrot Disco-Pro AG](https://www.parrot.com/business-solutions-us/parrot-professional/parrot-disco-pro-ag) with firmware 1.7.0, 1.7.1
+- Skycontroller 2 (silver joysticks) with firmware 1.0.7 - 1.0.9 or
+- Skycontroller 2P (black joysticks) with firmware 1.0.3 - 1.0.5
 
 ## Software/Installation Steps
 You need a PC for the initial setup (to load the mapping file to Skycontroller 2 via Disco's Wi-Fi connection). These instructions should work on the latest OS versions of Windows, macOS and GNU/Linux.
@@ -40,6 +42,12 @@ You need a PC for the initial setup (to load the mapping file to Skycontroller 2
 - That's all! :ghost: your Skycontroller 2 should reconnect and the new mapping should be available immediately.
 
 Also check out our amazing [4G/LTE softmod](https://uavpal.com/disco) if you are interested in flying your Parrot Disco without any range limitation!
+
+## Note
+- Kudos to aragon and alexiter @ [rcgroups.com](https://www.rcgroups.com/forums/showthread.php?2728773-Official-Parrot-Disco-%2A%2A%2AOwner-s-Thread%2A%2A%2A)
+- Existing custom button mappings for your Disco will be lost by applying this mod. However, you can re-apply them manually afterwards in FreeFlight Pro.
+- The campan mod is independent of the [4G/LTE softmod](https://uavpal.com/disco), both can be installed at the same time.
+- To uninstall, click the controller icon &rarr; BUTTONS MAPPING &rarr; RESET in FreeFlight Pro.
 
 ## Community
 [![UAVPAL Slack Workspace](https://uavpal.com/img/slack.png)](https://uavpal.com/slack)
