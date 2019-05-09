@@ -19,7 +19,8 @@ The video below shows the feature in action.
 
 ## Requirements
 - [Parrot Disco](https://www.parrot.com/us/drones/parrot-disco) / [Parrot Disco-Pro AG](https://www.parrot.com/business-solutions-us/parrot-professional/parrot-disco-pro-ag) with firmware 1.7.0, 1.7.1
-- Skycontroller 2 (silver joysticks) with firmware 1.0.7 - 1.0.9 or
+- Skycontroller 2 (silver joysticks) with firmware 1.0.7 - 1.0.9 or\
+or
 - Skycontroller 2P (black joysticks) with firmware 1.0.3 - 1.0.5
 
 ## Software/Installation Steps
