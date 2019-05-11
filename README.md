@@ -5,7 +5,7 @@
 The Parrot Disco allows the pilot to tilt the camera view ("look up/down") via Skycontroller 2. However, **there is also a built-in pan function ("look left/right")**. Unfortunately, it's not available to the user for easy mapping in FreeFlight Pro. This mod allows the pilot to make full use of the camera panning feature besides the existing tilting function.\
 The video below shows the feature in action.
 
-[![Disco camera pan in action](https://uavpal.com/img/campan_video_400.png)](https://www.youtube.com/watch?v=CHgPvLMQGvA&t=120)
+[![Disco camera pan in action](https://uavpal.com/img/campan_video_420_animated.gif)](https://www.youtube.com/watch?v=CHgPvLMQGvA&t=120)
 
 ## How does it work
 - After installing this mod, you can freely move the camera around by using the **Left Trigger L1** in combination with the **Left Joystick J1** (see picture below for reference).
