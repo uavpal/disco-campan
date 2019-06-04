@@ -37,7 +37,7 @@ You need a PC for the initial setup (to load the mapping file to Skycontroller 2
    - Transfer the "disco-campan-master" or "disco-campan-x.y" folder to the "/internal_000" folder on the Disco.
 - On Disco firmware 1.7.0 and newer: Double press the Disco's power button to enable the telnet server.
 - Open a Command Prompt (Windows)/Terminal (macOS/Linux) and Copy/Paste the following commands manually to install the campan mod.
-   - `telnet 192.168.42.1` (If you get an error under Windows, make sure the [Telnet Client is installed](https://www.technipages.com/windows-10-enable-telnet))
+   - `telnet 192.168.42.1` (If you are getting “command not found” or “... is not recognized as an internal or external command”, please check [this FAQ article](https://uavpal.com/disco/faq#telnet) first)
    - `chmod +x /data/ftp/internal_000/disco-campan-*/campan_install.sh`
    - `/data/ftp/internal_000/disco-campan-*/campan_install.sh`
 - That's all! :ghost: your Skycontroller 2 should reconnect and the new mapping should be available immediately.
