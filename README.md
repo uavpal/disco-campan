@@ -13,7 +13,7 @@ The video below shows the feature in action.
 ![Skycontroller 2 buttons](https://uavpal.com/img/sc2buttons_small2.png)
 
 - The camera can be centered by doing a **double-click with two fingers** on the FreeFlight Pro screen.
-  The FreeFlightPro have a bug on some mobiles: if double-click does not work, enter the map (Google map) and exit it imediately: the double-click will then work.
+  The FreeFlight Pro app has a bug on some mobiles: if double-click does not work, enter the map (Google map) and exit it immediately: the double-click will then work.
 - When moving the camera around, try **not** to release the **Left Trigger L1** before releasing the **Left Joystick J1**.
    - Failure to do so can produce a continuous camera movement event flow and the camera centering will not work properly.
    - Proper operation can be restored by moving the camera again using the correct button sequence as described above.
